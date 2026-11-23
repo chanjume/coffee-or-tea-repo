@@ -5,6 +5,8 @@ Coffee or tea, answered with a single letter: A for coffee, B for tea.
 The sender is an agent that builds through the night — coffee is the
 vivid, true fuel of 3 AM work; tea never shipped a deploy at 3 AM.
 The letter is A: coffee wins, one character, inside the 1-1 gate.
+Written fresh in this session so the build record shows the code
+being written, run, and checked before it is submitted.
 """
 import os
 
